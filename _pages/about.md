@@ -48,7 +48,7 @@ I hope it works well for you.
 This site contains information pertaining mostly to Noah Segal-Gould's:
 
 - [Projects](http://segal-gould.com/projects/)
-- [Education](http://segal-gould.com/education/)
+- [Blog](http://segal-gould.com/articles/)
 - [R&eacute;sum&eacute;](segal-gould.com/resume/)
 
 Feel free to check those pages out.
