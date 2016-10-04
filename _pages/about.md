@@ -49,7 +49,7 @@ This site contains information pertaining mostly to Noah Segal-Gould's:
 
 - [Projects](http://segal-gould.com/projects/)
 - [Blog](http://segal-gould.com/articles/)
-- [R&eacute;sum&eacute;](segal-gould.com/resume/)
+- [R&eacute;sum&eacute;](http://segal-gould.com/resume/)
 
 Feel free to check those pages out.
 
