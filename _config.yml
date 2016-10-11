@@ -8,6 +8,7 @@ desc: >
 url: http://segal-gould.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
+categories: [education, humanity]
 
 # Meta settings
 email: segalgouldn@gmail.com
@@ -21,7 +22,7 @@ google_analytics: 'UA-74051505-1'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
-paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+paginate_path: "/articles/humanity/page:num/"  # link scheme for articles, should be letf as is
 
 # Navigation settings
 # Used to define the navigation menu items
@@ -32,7 +33,7 @@ navigation:
     desc: Projects (by Noah Segal-Gould)
   - title: Articles
     url: /articles/
-    desc: I like to post articles on my We(b)log	
+    desc: I like to post articles (on coping)	
   - title: Résumé
     url: /resume/
     desc: I have a (readable) r&eacute;sum&eacute;	
@@ -64,4 +65,3 @@ exclude:
   - vendor
 gems:
   - jekyll-paginate
-

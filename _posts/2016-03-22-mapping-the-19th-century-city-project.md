@@ -1,6 +1,7 @@
 ---
 title: Mapping the 19th Century City Project
 desc: An attempt to understand antebellum immigration in New York City
+category: education
 ---
 
 ## Mapping the 19th Century City Project
