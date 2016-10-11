@@ -8,15 +8,17 @@
     
       <item>
         <title>Authority</title>
-        <description>&lt;p&gt;###”I am not an expert.”
-#####and
-###”Do not take what I say as fact.”&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“I am not an expert.”
+and
+“Do not take what I say as fact.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;#####These are be the disclaimers I would like to place at the top of every paper, report, file, and program I have ever written.&lt;/p&gt;
+&lt;p&gt;These are be the disclaimers I would like to place at the top of every paper, report, file, and program I have ever written.&lt;/p&gt;
 
 &lt;p&gt;I’m not sure why, but that disclaimer feels absolutely essential in order to achieve the opposite of what most of those who produce content seem to want:&lt;/p&gt;
 
-&lt;p&gt;#Authority.&lt;/p&gt;
+&lt;p&gt;Authority.&lt;/p&gt;
 
 &lt;p&gt;In a world of constant claims to authority and desperate attempts to prove the worth of what one says, I don’t just lack the confidence to do what everyone else does. I also lack the desire.&lt;/p&gt;
 

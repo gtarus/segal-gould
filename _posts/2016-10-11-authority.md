@@ -4,15 +4,15 @@ desc: Trying to understand the state of possessing authority.
 category: humanity
 ---
 
-###"I am not an expert."
-#####and
-###"Do not take what I say as fact."
+>"I am not an expert."
+and
+>"Do not take what I say as fact."
 
-#####These are be the disclaimers I would like to place at the top of every paper, report, file, and program I have ever written.
+These are be the disclaimers I would like to place at the top of every paper, report, file, and program I have ever written.
 
 I'm not sure why, but that disclaimer feels absolutely essential in order to achieve the opposite of what most of those who produce content seem to want:
 
-#Authority.
+Authority.
 
 In a world of constant claims to authority and desperate attempts to prove the worth of what one says, I don't just lack the confidence to do what everyone else does. I also lack the desire.
 
